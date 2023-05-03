@@ -187,6 +187,25 @@ header p {
 	font-weight: 700;
 }
 
+/* Teaching Section */
+#teaching-section {
+	padding: 100px 0;
+	background-color: #f6f6f6;
+}
+#teaching-section h4 {
+	margin-top: 0px;
+	border-bottom: 1px solid #4b9cd3;
+	padding-bottom: 10px;
+	display: inline-block;
+}
+#teaching-section p {
+	margin-top: 10px;
+	margin-bottom: 30px;
+}
+#teaching-section a {
+	font-weight: 700;
+}
+
 /* Publications Section */
 #publications-section {
 	padding: 100px 0;
@@ -237,7 +256,7 @@ header p {
 /* Awards Section */
 #awards-section {
 	padding: 100px 0;
-	background-color: #ffffff;
+	background-color: #f6f6f6;
 }
 #awards-section h4 {
 	border-bottom: 1px solid #4b9cd3;
@@ -312,7 +331,7 @@ img.team-img {
 ==============================*/
 #outreach-section {
 	padding: 100px 0;
-	background-color: #f6f6f6;
+	background-color: #ffffff;
 }
 .categories {
 	padding-bottom: 30px;
